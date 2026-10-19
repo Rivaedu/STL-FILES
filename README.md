@@ -26,3 +26,9 @@
 | [MOTOR RESTRAIN.stl](models/MOTOR%20RESTRAIN.stl) | <img src="model_img/MOTOR RESTRAIN.png" alt="model_img/MOTOR RESTRAIN.png" height="200"> |
 | [FRONT SPACER.stl](models/FRONT%20SPACER.stl) | <img src="model_img/FRONT SPACER.png" alt="model_img/FRONT SPACER.png" height="200"> |
 | [REAR SPACER.stl](models/REAR%20SPACER.stl) | <img src="model_img/REAR SPACER.png" alt="model_img/REAR SPACER.png" height="200"> |
+
+# CAD-FILE
+
+| CAD FILE | Image |
+|----------|-------|
+| [ENNER VALENCIA.step](https://drive.google.com/file/d/1yGU0RHlYhKcYadzgk1v2613hTOdJLxKR/view?usp=sharing) | <img src="CAD/ENNER VALENCIA.png" alt="ENNER VALENCIA.png" height="200">
